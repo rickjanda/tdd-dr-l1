@@ -34,7 +34,10 @@
 ## Plugin-specific files:
 
 # IntelliJ
-/out/
+**/out/
+
+# Maven output
+**/target/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
